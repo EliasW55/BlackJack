@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Dealer
+comment1.params=deck
+comment1.target=Dealer(Deck)
+comment2.params=
+comment2.target=void\ showFirstCard()
+comment3.params=deck
+comment3.target=void\ Hit(Deck)
+comment4.params=
+comment4.target=boolean\ wantsToHit()
+comment5.params=
+comment5.target=boolean\ hasBlackJack()
+comment6.params=
+comment6.target=void\ showHand()
+comment7.params=
+comment7.target=int\ getHandValue()
+comment8.params=handvalue
+comment8.target=boolean\ busted(int)
+comment9.params=deck
+comment9.target=int\ takeTurn(Deck)
+numComments=10

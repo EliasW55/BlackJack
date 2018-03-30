@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=handValue
+comment2.target=boolean\ hasBlackJack(int)
+comment3.params=hand
+comment3.target=int\ calcHandValue(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ Win()
+comment5.params=
+comment5.target=void\ Lose()
+comment6.params=
+comment6.target=void\ Push()
+comment7.params=deck\ hand
+comment7.target=void\ Hit(Deck,\ java.util.ArrayList)
+comment8.params=hitter
+comment8.target=boolean\ isHitorStand(java.lang.String)
+comment9.params=handvalue
+comment9.target=boolean\ checkBust(int)
+numComments=10
